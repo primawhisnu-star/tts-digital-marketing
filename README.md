@@ -38,15 +38,6 @@ Proyek ini dibangun dengan struktur kode yang bersih, terpisah, dan mudah dipela
 
 ---
 
-## 💻 Cara Menjalankan Secara Lokal
-
-Jika Anda ingin mengunduh dan memodifikasi proyek ini di komputer Anda:
-1. *Clone* repositori ini atau unduh file ZIP-nya.
-2. Pastikan file `index.html`, `style.css`, dan `script.js` berada dalam satu folder.
-3. Klik dua kali pada file `index.html` untuk langsung membukanya di browser favorit Anda.
-
----
-
 ## 📝 Lisensi
 
 Proyek ini bersifat *open-source* di bawah lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikan ulang proyek ini untuk keperluan edukasi atau ruang kelas Anda.
