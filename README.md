@@ -5,7 +5,7 @@
 
 Sebuah aplikasi **Teka-Teki Silang (TTS) Online** interaktif yang dirancang khusus sebagai media pembelajaran kreatif untuk mata pelajaran **Digital Marketing**. Proyek ini dibuat menggunakan teknologi web murni (*pure web*) tanpa *framework* tambahan, sehingga sangat ringan dan cepat diakses oleh siswa melalui komputer maupun *smartphone*.
 
-🎯 **Coba Aplikasi Langsung di Sini:** [Klik untuk Bermain TTS Online](https://primawhisnu-star.github.io/tts-digital-marketing/) *(Ganti dengan link GitHub Pages Anda)*
+🎯 **Coba Aplikasi Langsung di Sini:** [Klik untuk Bermain TTS Online](https://primawhisnu-star.github.io/tts-digital-marketing/)
 
 ---
 
